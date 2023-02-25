@@ -3,27 +3,27 @@
     {
       "id": 1,
       "species": "Zombie Palm",
-      "color": "green"
+      "color": "Green"
     },
     {
       "id": 2,
       "species": "Dracula Orchid",
-      "color": "black"
+      "color": "Black"
     },
     {
       "id": 3,
       "species": "Devil's Claw",
-      "color": "pink"
+      "color": "Pink"
     },
     {
       "id": 4,
       "species": "Corpse Flower",
-      "color": "dark red"
+      "color": "Dark Red"
     },
     {
       "id": 5,
       "species": "Bloodroot",
-      "color": "white"
+      "color": "White"
     }
   ],
   "retailers": [
