@@ -3,27 +3,32 @@
     {
       "id": 1,
       "species": "Zombie Palm",
-      "color": "Green"
+      "color": "Green",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/2/22/Zombia_antillarum_10zz.jpg"
     },
     {
       "id": 2,
       "species": "Dracula Orchid",
-      "color": "Black"
+      "color": "Black",
+      "img": "https://d2j6dbq0eux0bg.cloudfront.net/images/10325341/3136557217.jpg"
     },
     {
       "id": 3,
       "species": "Devil's Claw",
-      "color": "Pink"
+      "color": "Pink",
+      "img": "https://cdn.shopify.com/s/files/1/0058/0252/4783/files/devils-claw-harpagophytum-procumbens-alternate-1.jpg"
     },
     {
       "id": 4,
       "species": "Corpse Flower",
-      "color": "Dark Red"
+      "color": "Dark Red",
+      "img": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2021/04/Rafflesia_arnoldii_2880_Lede.jpg"
     },
     {
       "id": 5,
       "species": "Bloodroot",
-      "color": "White"
+      "color": "White",
+      "img": "https://www.gannett-cdn.com/-mm-/1c861465b3c7a4c880cda48dcc4c100ff4c4376a/c=0-407-3927-2626/local/-/media/2016/03/07/CarolinaGroup/Greenville/635929413894908547-DSC-9899.JPG"
     }
   ],
   "retailers": [
@@ -76,7 +81,7 @@
   "distributors": [
     {
       "id": 1,
-      "name": "Koch Distribution LLC",
+      "name": "Koch Distributors LLC",
       "markup": 300
     },
     {
@@ -86,7 +91,7 @@
     },
     {
       "id": 3,
-      "name": "Klocko Brothers Distribution",
+      "name": "Klocko Brothers Dist.",
       "markup": 15
     }
   ],
@@ -573,6 +578,213 @@
       "cost": 49.28,
       "quantity": 1,
       "id": 39
+    },
+    {
+      "customerId": 1,
+      "retailerId": 3,
+      "flowerId": 3,
+      "flowerName": "Devil's Claw",
+      "cost": 834.83,
+      "quantity": 1,
+      "id": 40
+    },
+    {
+      "customerId": 1,
+      "retailerId": 3,
+      "flowerId": 3,
+      "flowerName": "Devil's Claw",
+      "cost": 834.83,
+      "quantity": 1,
+      "id": 41
+    },
+    {
+      "customerId": 1,
+      "retailerId": 4,
+      "flowerId": 1,
+      "flowerName": "Zombie Palm",
+      "cost": 12.65,
+      "quantity": 1,
+      "id": 42
+    },
+    {
+      "customerId": 1,
+      "retailerId": 4,
+      "flowerId": 1,
+      "flowerName": "Zombie Palm",
+      "cost": 12.65,
+      "quantity": 1,
+      "id": 43
+    },
+    {
+      "customerId": 1,
+      "retailerId": 5,
+      "flowerId": 5,
+      "flowerName": "Bloodroot",
+      "cost": 84.24,
+      "quantity": 1,
+      "id": 44
+    },
+    {
+      "customerId": 1,
+      "retailerId": 5,
+      "flowerId": 5,
+      "flowerName": "Bloodroot",
+      "cost": 84.24,
+      "quantity": 1,
+      "id": 45
+    },
+    {
+      "customerId": 1,
+      "retailerId": 5,
+      "flowerId": 5,
+      "flowerName": "Bloodroot",
+      "cost": 84.24,
+      "quantity": 1,
+      "id": 46
+    },
+    {
+      "customerId": 1,
+      "retailerId": 5,
+      "flowerId": 4,
+      "flowerName": "Corpse Flower",
+      "cost": 580.32,
+      "quantity": 1,
+      "id": 47
+    },
+    {
+      "customerId": 1,
+      "retailerId": 5,
+      "flowerId": 4,
+      "flowerName": "Corpse Flower",
+      "cost": 580.32,
+      "quantity": 1,
+      "id": 48
+    },
+    {
+      "customerId": 1,
+      "retailerId": 3,
+      "flowerId": 3,
+      "flowerName": "Devil's Claw",
+      "cost": 834.83,
+      "quantity": 1,
+      "id": 49
+    },
+    {
+      "customerId": 1,
+      "retailerId": 2,
+      "flowerId": 2,
+      "flowerName": "Dracula Orchid",
+      "cost": 49.28,
+      "quantity": 1,
+      "id": 50
+    },
+    {
+      "customerId": 1,
+      "retailerId": 2,
+      "flowerId": 2,
+      "flowerName": "Dracula Orchid",
+      "cost": 49.28,
+      "quantity": 1,
+      "id": 51
+    },
+    {
+      "customerId": 1,
+      "retailerId": 2,
+      "flowerId": 2,
+      "flowerName": "Dracula Orchid",
+      "cost": 49.28,
+      "quantity": 1,
+      "id": 52
+    },
+    {
+      "customerId": 1,
+      "retailerId": 2,
+      "flowerId": 2,
+      "flowerName": "Dracula Orchid",
+      "cost": 49.28,
+      "quantity": 1,
+      "id": 53
+    },
+    {
+      "customerId": 1,
+      "retailerId": 2,
+      "flowerId": 2,
+      "flowerName": "Dracula Orchid",
+      "cost": 49.28,
+      "quantity": 1,
+      "id": 54
+    },
+    {
+      "customerId": 1,
+      "retailerId": 2,
+      "flowerId": 2,
+      "flowerName": "Dracula Orchid",
+      "cost": 49.28,
+      "quantity": 1,
+      "id": 55
+    },
+    {
+      "customerId": 1,
+      "retailerId": 2,
+      "flowerId": 2,
+      "flowerName": "Dracula Orchid",
+      "cost": 49.28,
+      "quantity": 1,
+      "id": 56
+    },
+    {
+      "customerId": 1,
+      "retailerId": 2,
+      "flowerId": 2,
+      "flowerName": "Dracula Orchid",
+      "cost": 49.28,
+      "quantity": 1,
+      "id": 57
+    },
+    {
+      "customerId": 1,
+      "retailerId": 2,
+      "flowerId": 2,
+      "flowerName": "Dracula Orchid",
+      "cost": 49.28,
+      "quantity": 1,
+      "id": 58
+    },
+    {
+      "customerId": 1,
+      "retailerId": 1,
+      "flowerId": 4,
+      "flowerName": "Corpse Flower",
+      "cost": 545.6,
+      "quantity": 1,
+      "id": 59
+    },
+    {
+      "customerId": 1,
+      "retailerId": 1,
+      "flowerId": 5,
+      "flowerName": "Bloodroot",
+      "cost": 79.2,
+      "quantity": 1,
+      "id": 60
+    },
+    {
+      "customerId": 1,
+      "retailerId": 2,
+      "flowerId": 1,
+      "flowerName": "Zombie Palm",
+      "cost": 12.32,
+      "quantity": 1,
+      "id": 61
+    },
+    {
+      "customerId": 1,
+      "retailerId": 2,
+      "flowerId": 2,
+      "flowerName": "Dracula Orchid",
+      "cost": 49.28,
+      "quantity": 1,
+      "id": 62
     }
   ]
 }
